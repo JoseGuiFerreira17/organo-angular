@@ -1,0 +1,12 @@
+{
+    "json.schemas": [
+        
+    ],
+    "css.format.enable": true,
+    "editor.formatOnSave": true,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features",
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2
+    }
+}
